@@ -45,7 +45,7 @@ QA Engineer with **2+ years** testing web and mobile apps across fintech, bankin
 
 | Project | Description | Stack |
 |---|---|---|
-| [**CutiApp**](https://cutiapp.vercel.app) | HRIS web app for leave & attendance, with session auth and Excel/PDF export | Next.js 14 · Prisma · PostgreSQL · Zod |
-| [**Portfolio**](https://github.com/rdwnivan/TestProject_Portofolio) | Personal portfolio site with smooth animations · [live](https://testproject-alpha-seven.vercel.app) | React 19 · Tailwind 4 · Vite · Motion |
+| [**CutiApp**](https://cuti-app.vercel.app) | HRIS web app for leave & attendance, with session auth and Excel/PDF export | Next.js 14 · Prisma · PostgreSQL · Zod |
+| [**Portfolio**](https://github.com/rdwnivan/portfolio) | Personal portfolio site with smooth animations · [live](https://testproject-alpha-seven.vercel.app) | React 19 · Tailwind 4 · Vite · Motion |
 | [**PlaywrightTSProject**](https://github.com/rdwnivan/PlaywrightTSProject) | End-to-end test automation project | Playwright · TypeScript |
 | [**KatalonDemoProject**](https://github.com/rdwnivan/KatalonDemoProject) | Test automation demo with Katalon Studio | Katalon · Groovy |
