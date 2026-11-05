@@ -26,7 +26,7 @@ QA Engineer with **2+ years** testing web and mobile apps across fintech, bankin
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon-4B4B4B?style=flat-square&logo=katalon&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon-1A1A1A?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
