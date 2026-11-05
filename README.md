@@ -49,10 +49,3 @@ QA Engineer with **2+ years** testing web and mobile apps across fintech, bankin
 | [**Portfolio**](https://github.com/rdwnivan/TestProject_Portofolio) | Personal portfolio site with smooth animations · [live](https://testproject-alpha-seven.vercel.app) | React 19 · Tailwind 4 · Vite · Motion |
 | [**PlaywrightTSProject**](https://github.com/rdwnivan/PlaywrightTSProject) | End-to-end test automation project | Playwright · TypeScript |
 | [**KatalonDemoProject**](https://github.com/rdwnivan/KatalonDemoProject) | Test automation demo with Katalon Studio | Katalon · Groovy |
-
-### GitHub Stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rdwnivan&show_icons=true&hide_border=true&hide_title=true&theme=transparent" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdwnivan&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
